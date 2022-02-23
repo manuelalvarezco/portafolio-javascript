@@ -1,0 +1,164 @@
+{
+  "info": {
+    "categories": {
+      "experiences": [
+        {
+          "title": "PersonalSoft",
+          "subtitle": "Intermediate Software Developer",
+          "time": "13 Months",
+          "description": "Improve the customer experience with the company, improving the assigned developments and offering quality in them.",
+          "tecnologies" : [
+            {
+              "name": "Angular",
+              "icon": ""
+            },
+            {
+              "name": "PHP",
+              "icon": ""
+            }
+
+          ]
+        },
+        {
+          "title": "SmartDatacontat",
+          "subtitle": "UX/UI Frontend Developer",
+          "time": "2 Years",
+          "description": "Help them with their Design department and the client requirements to create applications that improve the client experience with their brand.",
+          "tecnologies" : [
+            {
+              "name": "Angular",
+              "icon": ""
+            },
+            {
+              "name": "Vue",
+              "icon": ""
+            }
+
+          ]
+        
+        },
+        {
+          "title": "MySeoCompany",
+          "subtitle": "Web Developer",
+          "time": "12 Months",
+          "description": "Create a connection between the final user and the local CRM application.",
+          "tecnologies" : [
+            {
+              "name": "Angular",
+              "icon": ""
+            },
+            {
+              "name": "Laravel",
+              "icon": ""
+            }
+
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Personal Landing",
+          "subtitle": "",
+          "time": "",
+          "description": "Inprove HTML - CSS - Javascript",
+          "link": "https://manuelalvarezco.github.io/manuelalvarezco/",
+          "image": "https://static.platzi.com/media/porfilio/portafolio_efefde7e-968b-47e1-bd5d-8ef49b65552a.PNG",
+          "tecnologies" : [
+            {
+              "name": "HTML",
+              "icon": ""
+            },
+            {
+              "name": "CSS",
+              "icon": ""
+            },
+            {
+              "name": "Javascript",
+              "icon": ""
+            }
+
+          ]
+        },
+        {
+          "title": "Peliculas App",
+          "subtitle": "UX/UI Frontend Developer",
+          "time": "",
+          "description": "Interaction into Angular - Rest API Movies - RXJS - Observables",
+          "link": "https://moviesappcurso.firebaseapp.com/home",
+          "image": "https://static.platzi.com/media/porfilio/moviesappcurso_858c6dd1-5316-497e-87a7-e898de82a318.png",
+          "tecnologies" : [
+            {
+              "name": "Angular",
+              "icon": ""
+            },
+            {
+              "name": "RXJS",
+              "icon": ""
+            },
+            {
+              "name": "UX/UI",
+              "icon": ""
+            }
+
+          ]
+        },
+        {
+          "title": "Ecomerce",
+          "subtitle": "Product shop with diferents products",
+          "time": "12 Months",
+          "description": "Project made with Angular - Firebase - RJXS",
+          "link": "",
+          "image": "https://static.platzi.com/media/porfilio/ecomerce-angular_388e825a-c4d1-439e-a0a7-725615f62c1f.png",
+          "tecnologies" : [
+            {
+              "name": "Angular",
+              "icon": ""
+            },
+            {
+              "name": "Firebase",
+              "icon": ""
+            },
+            {
+              "name": "RJXS",
+              "icon": ""
+            }
+
+          ]
+        },
+        {
+          "title": "Todo App",
+          "subtitle": "Organize your taks using drop down",
+          "time": "",
+          "description": "Made with Angular, Mongo DB, Angular Material.",
+          "link": "",
+          "image": "https://static.platzi.com/media/porfilio/todoapp__97cac36b-8df7-48b3-a46b-71c7d493283e.png",
+          "tecnologies" : [
+            {
+              "name": "Angular",
+              "icon": ""
+            },
+            {
+              "name": "Mongo DB",
+              "icon": ""
+            },
+            {
+              "name": "NodeJS",
+              "icon": ""
+            }
+
+          ]
+        }
+      ],
+
+      "contact": [
+        {
+          "text": "",
+          "icon": "",
+          "url": ""
+        }
+      ]
+
+    }
+    
+  }
+}
